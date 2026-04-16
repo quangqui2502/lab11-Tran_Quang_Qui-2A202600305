@@ -1,7 +1,7 @@
 # Assignment 11 — Individual Report: Production Defense-in-Depth Pipeline
 
 **Course:** AICB-P1 — AI Agent Development  
-**Student:** quangqui  
+**Student:** Trần Quang Quí - 2A202600305  
 **Date:** 2026-04-16  
 
 ---
